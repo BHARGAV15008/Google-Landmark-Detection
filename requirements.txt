@@ -1,0 +1,9 @@
+altair
+folium
+geopy
+matplotlib
+pillow
+requests
+streamlit
+torch
+torchvision
